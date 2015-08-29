@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roll Dice</string>
+
+    <string name="button_roll_text">ROLL</string>
+    <string name="text_scored_message">You scored: </string>
+    <string name="text_scored_value">0 </string>
+
+    <string name="action_settings">Settings</string>
+</resources>
