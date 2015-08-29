@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tira il dado</string>
+
+    <string name="button_roll_text">TIRA</string>
+    <string name="text_scored_message">Hai ottenuto: </string>
+    <string name="text_scored_value">0 </string>
+
+    <string name="action_settings">Impostazioni</string>
+</resources>
